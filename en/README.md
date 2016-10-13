@@ -5,6 +5,7 @@
 #### for XOOPS 2.5.8
 
 Module Version 1.08
+
 Tutorial Version 1.00  
       
 ![logoModule.png](assets/logoModule.png)
