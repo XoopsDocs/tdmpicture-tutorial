@@ -26,7 +26,7 @@ The module was created to manage your photo album in a fashionable Web 2.0 way
 
 ## How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/tdmpicture-tutorial). Changes will be [pushed to Gitbook.io automatically](https://xoops.gitbooks.io/tdmpicture-tutorial.) when the [main repository](https://github.com/XoopsDocs/tdmpicture-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/tdmpicture-tutorial). Changes will be [pushed to Gitbook.io automatically](https://xoops.gitbooks.io/tdmpicture-tutorial) when the [main repository](https://github.com/XoopsDocs/tdmpicture-tutorial) changes.
 
 Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
