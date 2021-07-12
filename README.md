@@ -4,7 +4,7 @@
 
 ## Module TdmPicture
 
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
 
 Module Version 1.08
 
@@ -14,7 +14,7 @@ Tutorial Version 1.00
             
 ### User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ### Module Purpose
 
